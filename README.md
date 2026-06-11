@@ -51,12 +51,11 @@ Pour ce projet, le patron de conception architectural **MVC (Modèle-Vue-Contrô
 
 ## 📱 Captures d'Écran
 
-> **Note :** *Remplacez les liens des images ci-dessous par les véritables captures d'écran de votre application une fois finalisée.*
+## 📱 Captures d'Écran
 
 | Connexion & Inscription | Liste des Tâches (CRUD) | Création d'une Tâche |
 | :---: | :---: | :---: |
-| ![Login](https://via.placeholder.com/250x500.png?text=Ecran+Login) | ![List](https://via.placeholder.com/250x500.png?text=Ecran+Taches) | ![Form](https://via.placeholder.com/250x500.png?text=Ecran+Formulaire) |
-
+| ![Login](docs/login.png) | ![List](docs/list.png) | ![Form](docs/form.png) |
 ---
 
 ## 🛠️ Installation et Exécution
