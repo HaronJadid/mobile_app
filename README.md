@@ -72,3 +72,18 @@ Pour ce projet, le patron de conception architectural **MVC (Modèle-Vue-Contrô
    ```bash
    git clone https://github.com/HaronJadid/nom-du-repo.git
    cd nom-du-repo
+
+2. **Récupérer les dépendances :**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Vérifier les périphériques connectés :**
+   ```bash
+   flutter devices
+   ```
+
+4. **Exécuter l'application :**
+   ```bash
+   flutter run
+   ```  
